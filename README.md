@@ -7,7 +7,7 @@ Marketer and Python Developer
 I'm a marketer and I work with website automation. I have skills with Python, Pandas, REST API, HTML5 and Javascript.
 
 * 🌍  I'm based in Brazil
-* ✉️  You can contact me at [williamfsca@gmail.com](mailto:williamfsca@gmail.com)
+* ✉️  You can contact me at [LinkedIn](https://www.linkedin.com/in/williammfonseca/)
 * 🧠  I'm learning Automation with Python
 * 🤝  I'm open to collaborating on Automation of Marketing Tasks
 * ⚡  I love automate the boring stuff
